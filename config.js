@@ -31,7 +31,7 @@ function convertToBool(text, fault = 'true') {
 }
 
 module.exports = {
-    SESSION_ID: process.env.SESSION_ID || "DARK-SILENCE-MD~vMgjkIIS#shfEBIMtiobHwHxgTRcyLhzjEl4ZhNru02024l_7kJs  ",
+    SESSION_ID: process.env.SESSION_ID || "DARK-SILENCE-MD~jdxn1bBR#rLKdyInp-X_lq3WUGrsEKZh-JU3raN9y_DVnjdbUfCI ",
     CAPTION: process.env.CAPTION || "POWERED BY SILENTLOVER432",
     AUTO_READ_STATUS: process.env.AUTO_READ_STATUS || "true",
     AUTO_REPLY_STATUS: process.env.AUTO_REPLY_STATUS || "true",
@@ -44,7 +44,7 @@ module.exports = {
     ALIVE_MSG: process.env.ALIVE_MSG || "HII DEAR IM ONLINE I'M DARK-SILENCE-MD WHATSAPP BOT 😊♻️",
     ANTI_LINK: process.env.ANTI_LINK || "true",
     ANTI_BAD: process.env.ANTI_BAD || "true",
-    PREFIX: process.env.PREFIX || ".",
+    PREFIX: process.env.PREFIX || "$",
     FAKE_RECORDING: process.env.FAKE_RECORDING || "true",
     FAKE_TYPING: process.env.FAKE_TYPING || "false",
     ALWAYS_ONLINE: process.env.ALWAYS_ONLINE || "true",
@@ -52,9 +52,9 @@ module.exports = {
     AUTO_REACT: process.env.AUTO_REACT || "true",
     HEART_REACT: process.env.HEART_REACT || "true",
     OWNER_NUMBER: process.env.OWNER_NUMBER || "224628863629",
-    OWNER_NAME: process.env.OWNER_NAME || "➺ѕเℓεɳƭ_ℓσѵε૨࿐",
+    OWNER_NAME: process.env.OWNER_NAME || "𝔰𝔫𝔞𝔨𝔢~𝔢𝔶𝔢𝔰",
     READ_CMD: process.env.READ_CMD || "true",
-    BOT_NAME: process.env.BOT_NAME || "➺DARK-SILENCE-MD",
+    BOT_NAME: process.env.BOT_NAME || "𝔪𝔬𝔫𝔞𝔯𝔮𝔲𝔢-𝔡𝔢𝔰-𝔬𝔪𝔟𝔯𝔢𝔰",
     STATUS_REPLY: process.env.STATUS_REPLY || "snakeeyes,
     STATUS_REACT: process.env.STATUS_REACT || "true",
     ANTI_VV: process.env.ANTI_VV || "true",// true for anti once view 
